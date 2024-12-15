@@ -1,0 +1,14 @@
+{
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#3374ff2f",
+    "statusBar.debuggingBackground": "#33ff522f",
+    "statusBar.noFolderBackground": "#33ff522f",
+    "statussBar.prominentBackground": "#33ff522f"
+  },
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": ["javascript"],
+  "prettier.requireConfig": true
+}
